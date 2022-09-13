@@ -131,6 +131,17 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.00796)] \
 ## Vision
 ### Image Generation
 
+**Soft Diffusion: Score Matching for General Corruptions** \
+*Giannis Daras, Mauricio Delbracio, Hossein Talebi, Alexandros G. Dimakis, Peyman Milanfar* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.05442)] \
+12 Sep 2022
+
+**Improved Masked Image Generation with Token-Critic** \
+*José Lezama, Huiwen Chang, Lu Jiang, Irfan Essa* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.04439)] \
+9 Sep 2022
+
+
 **Let us Build Bridges: Understanding and Extending Diffusion Generative Models** \
 *Xingchao Liu, Lemeng Wu, Mao Ye, Qiang Liu* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.14699)] \
@@ -1131,7 +1142,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.01170)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.14699)] \
 31 Aug 2022
 
-
 **PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition** \
 *Jiachen Sun, Weili Nie, Zhiding Yu, Z. Morley Mao, Chaowei Xiao* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09801)] \
@@ -1265,8 +1275,6 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2109.13821)] [[Project](https://diffvc
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.05830)] [[Project](https://www.inf.uni-hamburg.de/en/inst/ab/sp/publications/sgmse)] [[Github](https://github.com/sp-uhh/sgmse)] \
 11 Aug 2022
 
-
-
 **NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates** \
 *Seungu Han, Junhyeok Lee* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2206.08545)] [[Project](https://mindslab-ai.github.io/nuwave2/)] \
@@ -1281,7 +1289,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2206.03065)] \
 *Yen-Ju Lu, Zhong-Qiu Wang, Shinji Watanabe, Alexander Richard, Cheng Yu, Yu Tsao* \
 IEEE 2022. [[Paper](https://arxiv.org/abs/2202.05256)] [[Github](https://github.com/neillu23/cdiffuse)] \
 10 Feb 2022
-
 
 **A Study on Speech Enhancement Based on Diffusion Probabilistic Model** \
 *Yen-Ju Lu<sup>1</sup>, Yu Tsao<sup>1</sup>, Shinji Watanabe* \
@@ -1359,7 +1366,6 @@ Interspeech 2021. [[Paper](https://arxiv.org/abs/2104.01409)] \
 *Jiachen Sun, Weili Nie, Zhiding Yu, Z. Morley Mao, Chaowei Xiao* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09801)] \
 21 Aug 2022
-
 
 **PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition** \
 *Jiachen Sun, Weili Nie, Zhiding Yu, Z. Morley Mao, Chaowei Xiao* \
@@ -1501,12 +1507,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2208.07949)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.05314)] \
 10 Aug 2022
 
-
 **Theory and Algorithms for Diffusion Processes on Riemannian Manifolds** \
 *Bowen Jing, Gabriele Corso, Jeffrey Chang, Regina Barzilay, Tommi Jaakkola* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)] \
 1 Jun 2022
-
 
 **Riemannian Score-Based Generative Modeling** \
 *Valentin De Bortoli<sup>1</sup>, Emile Mathieu<sup>1</sup>, Michael Hutchinson, James Thornton, Yee Whye Teh, Arnaud Doucet* \
@@ -1514,6 +1518,16 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2202.02763)] \
 6 Feb 2022
 
 ### Applications
+
+**SE(3)-DiffusionFields: Learning cost functions for joint grasp and motion optimization through diffusion** \
+*Julen Urain, Niklas Funk, Georgia Chalvatzaki, Jan Peters* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.03855)] \
+8 Sep 2022
+
+**Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model** \
+*Sangjun Han, Hyeongrae Ihm, DaeHan Ahn, Woohyung Lim* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.02696)] \
+5 Sep 2022
 
 **FLAME: Free-form Language-based Motion Synthesis & Editing** \
 *Jihoon Kim, Jiseob Kim, Sungjoon Choi* \
@@ -1529,7 +1543,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingy
 *Dominik J. E. Waibel, Ernst Röell, Bastian Rieck, Raja Giryes, Carsten Marr* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.14125)] \
 30 Aug 2022
-
 
 **AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models** \
 *Nithin Gopalakrishnan Nair, Kangfu Mei, Vishal M Patel* \
